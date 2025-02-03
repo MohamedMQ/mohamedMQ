@@ -35,15 +35,15 @@
 
 <h2 align="center">GitHub Stats</h2>
 <div align="center">
-    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedMQ&show_icons=true&locale=en&layout=compact" alt="abdenaser" />
-    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedMQ&show_icons=true&locale=en" alt="abdenaser" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=mohamedMQ&show_icons=true&locale=en&layout=compact" alt="mohamedMQ" />
+    <img align="center" src="https://github-readme-stats.vercel.app/api?username=mohamedMQ&show_icons=true&locale=en" alt="mohamedMQ" />
 </div>
 
 <div align="center">
-    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedMQ&" alt="abdenaser" />
+    <img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mohamedMQ&" alt="mohamedMQ" />
 </div>
 
 <div align="center">
     <h2>GitHub Trophies</h2>
-    <a href="https://github.com/mohamedMQ/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedMQ" alt="abdenaser" /></a>
+    <a href="https://github.com/mohamedMQ/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=mohamedMQ" alt="mohamedMQ" /></a>
 </div>
