@@ -29,7 +29,7 @@
 <h2 align="center">Languages and Tools:</h2>
 <p align="center">
     <a href="https://skillicons.dev">
-        <img src="[https://skillicons.dev/icons?i=c,cpp,html,css,js,mongodb,express,react,nodejs,python,django,nextjs,materialui,tailwindcss,mongodb,mysql,figma,git,docker&perline=10](https://skillicons.dev/icons?i=c,cpp,html,css,js,mongodb,express,react,nodejs,python,django,java,spring,nextjs,materialui,tailwindcss,mongodb,mysql,figma,git,docker&perline=10)" />
+        <img src="https://skillicons.dev/icons?i=c,cpp,html,css,js,express,react,nodejs,python,django,java,spring,nextjs,materialui,tailwindcss,mysql,figma,git,docker&perline=10" />
     </a>
 </p>
 
