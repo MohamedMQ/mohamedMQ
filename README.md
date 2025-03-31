@@ -12,7 +12,7 @@
 
 <h2 align="center">Connect with me:</h2>
 <p align="center">
-  <a target="_blank" href="https://www.linkedin.com/in/mohamed-maqbour-65792a233/">
+  <a target="_blank" href="https://www.linkedin.com/in/mohamed-maqbour/">
     <img src="https://img.shields.io/badge/linkedin-000000.svg?&style=for-the-badge&logo=linkedin&logoColor=white" height=25>
   </a>
   <a target="_blank" href="mailto:maqbour.moh@gmail.com">
